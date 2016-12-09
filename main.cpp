@@ -5,8 +5,11 @@ int main(){
 
 	int a;
 	
-	a = 5;
+	a = 12450;
 	
 	cout << a << endl;
 	int b;
+	cin>>b;
+	cout<<b;
+	
 }

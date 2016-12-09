@@ -8,4 +8,5 @@ int main(){
 	a = 3;
 	
 	cout << a << endl;
+	int b;
 }
